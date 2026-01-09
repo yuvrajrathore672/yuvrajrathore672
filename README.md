@@ -13,6 +13,6 @@ Data Science and Machine Learning projects <br>Open Source projects related to a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajRathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=YuvrajRathore&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YuvrajRathore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
